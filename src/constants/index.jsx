@@ -50,7 +50,7 @@ export const PROJECTS = [
       "A blogging platform with a content management system, user authentication, and an intuitive editor.",
     techStack: ["Ruby on Rails", "PostgreSQL", "Tailwind CSS"],
     imgSrc: project4,
-    link: "news-app-kaltak.vercel.app",
+    link: "newsapp-ten-xi.vercel.app",
   },
   {
     id: 5,
